@@ -1,0 +1,4 @@
+{"version": 2, "width": 120, "height": 30, "timestamp": 1693602330, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[2.557489, "o", "nvm is not compatible with the npm config \"prefix\" option: currently set to \"/home/r1zzd/.asdf/installs/nodejs/18.7.0\"\r\nRun `npm config delete prefix` or `nvm use --delete-prefix v20.5.1 --silent` to unset it.\r\n"]
+[2.562065, "o", "\u001b[?2004h\u001b]0;r1zzd@DESKTOP-V440DDP: ~/frontend-project-44\u0007\u001b[01;32mr1zzd@DESKTOP-V440DDP\u001b[00m:\u001b[01;34m~/frontend-project-44\u001b[00m$ "]
+[17.904411, "o", "\u001b[?2004l\r\r\nexit\r\n"]
