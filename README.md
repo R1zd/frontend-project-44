@@ -10,3 +10,6 @@
 
 ### Asciinema brain-even
 [![asciicast](https://asciinema.org/a/606048.svg)](https://asciinema.org/a/606048)
+
+### Asciinema brain-gcd
+[![asciicast](https://asciinema.org/a/606122.svg)](https://asciinema.org/a/606122)
