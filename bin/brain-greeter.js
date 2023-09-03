@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 /* eslint-disable import/extensions */
-import allGames from '../src/index.js';
+import greetUser from '../src/cli.js';
 
-allGames();
+greetUser();

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 /* eslint-disable import/extensions */
-import allGames from '../src/index.js';
+import calcGame from '../src/cli-calc.js';
 
-allGames();
+calcGame();
