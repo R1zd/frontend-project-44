@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 /* eslint-disable import/extensions */
-import evenGame from '../src/src-games/cli-even.js';
+import { brainEven } from '../src/index.js';
 
-export default () => { evenGame(); };
-
-evenGame();
+brainEven();

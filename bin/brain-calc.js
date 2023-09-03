@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 /* eslint-disable import/extensions */
-import calcGame from '../src/src-games/cli-calc.js';
+import brainCalc from '../src/index.js';
 
-export default () => { calcGame(); };
-
-calcGame();
+brainCalc();

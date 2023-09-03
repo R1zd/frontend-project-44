@@ -1,16 +1,16 @@
 /* eslint-disable import/extensions */
-import brainGreet from '../bin/brain-greeter.js';
-import brainEven from '../bin/brain-even.js';
-import brainCalc from '../bin/brain-calc.js';
+import greeter from './cli.js';
+import cliEven from './src-games/cli-even.js';
+import cliCalc from './src-games/cli-calc.js';
 
-export const brainGreetExp = (ind) => {
-  brainGreet();
+export const brainGreet = () => {
+  greeter();
 };
 
-export const brainEvenExp = (ind) => {
-  brainEven();
+export const brainEven = () => {
+  cliEven();
 };
 
-export const brainCalcExp = (ind) => {
-  brainCalc();
+export const brainCalc = () => {
+  cliCalc();
 };
