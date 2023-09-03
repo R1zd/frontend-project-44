@@ -21,3 +21,6 @@ brain-greeter:
 
 brain-choose:
 	node bin/brain-choose.js
+
+brain-gcd:
+	node bin/brain-gcd.js
