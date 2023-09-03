@@ -1,3 +1,3 @@
 node_modules/
-src/index.js
-bin/brain-choose.js
+/bin/brain-choose.js
+/src/index.js
