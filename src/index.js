@@ -4,9 +4,7 @@ import brainEven from '../bin/brain-even.js';
 import brainCalc from '../bin/brain-calc.js';
 
 export const brainGreetExp = (ind) => {
-  if (ind === '1') {
-    return brainGreet();
-  }
+  brainGreet();
 };
 
 export const brainEvenExp = (ind) => {
