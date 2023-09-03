@@ -1,9 +1,9 @@
 /* eslint-disable import/named */
 /* eslint-disable import/extensions */
 import redlineSync from 'readline-sync';
-import getRandomNumber from './getRandomNumber.js';
-import getRandomOperator from './getRandomOperator.js';
-import calculateExpressionForCalc from './calculateExpressionForCalc.js';
+import getRandomNumber from './src-for-game/getRandomNumber.js';
+import getRandomOperator from './src-for-game/getRandomOperator.js';
+import calculateExpressionForCalc from './src-for-game/calculateExpressionForCalc.js';
 
 export default () => {
   console.log('Welcome to the Brain Games!');

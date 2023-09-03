@@ -1,6 +1,6 @@
 /* eslint-disable import/extensions */
 import redlineSync from 'readline-sync';
-import getRandomNumber from './getRandomNumber.js';
+import getRandomNumber from './src-for-game/getRandomNumber.js';
 
 const isEven = (num) => num % 2 === 0;
 export default () => {
