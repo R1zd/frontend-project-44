@@ -5,7 +5,7 @@ publish:
 	npm publish --dry-run
 
 brain-games:
-	node bin/brain-greeter.js
+	node bin/brain-games.js
 
 make-lint:
 	npx eslint .
@@ -15,3 +15,9 @@ brain-even:
 
 brain-calc:
 	node bin/brain-calc.js
+
+brain-greeter:
+	node bin/brain-greeter.js
+
+brain-choose:
+	node bin/brain-choose.js
