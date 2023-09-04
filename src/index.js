@@ -3,6 +3,7 @@ import greeter from './cli.js';
 import cliEven from './src-games/cli-even.js';
 import cliCalc from './src-games/cli-calc.js';
 import cliGcd from './src-games/cli-gcd.js';
+import cliProgression from './src-games/cli-progression.js';
 
 export const brainGreet = () => {
   greeter();
@@ -18,4 +19,8 @@ export const brainCalc = () => {
 
 export const brainGcd = () => {
   cliGcd();
+};
+
+export const brainProgression = () => {
+  cliProgression();
 };
