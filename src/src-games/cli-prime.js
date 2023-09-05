@@ -22,7 +22,7 @@ export default () => {
       console.log('Correct!');
     } else {
       console.log(`${userAns} is wrong answer ;(. Correct answer was ${corrAns}`);
-      console.log(`Let's try again, ${name}`);
+      console.log(`Let's try again, ${name}!`);
     }
     if (winCount === 3) {
       console.log(`Congratulations, ${name}!`);
