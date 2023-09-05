@@ -9,6 +9,7 @@ export default () => {
   console.log('Welcome to the Brain Games!');
   const name = redlineSync.question('May I have your name? ');
   console.log(`Hello, ${name}!`);
+  console.log('What is the result of the expression?');
   let corrAns = 0;
   let userAns = 0;
   let winCount = 0;
